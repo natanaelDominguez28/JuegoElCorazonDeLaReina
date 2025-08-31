@@ -41,3 +41,14 @@ Implementado en **C++** utilizando distintas estructuras como árboles, listas y
    ```bash
    git clone https://github.com/natanaelDominguez28/JuegoElCorazonDeLaReina.git
    cd JuegoElCorazonDeLaReina
+## 🎥 Demo en Video
+
+[![Ver demo en YouTube](assets/demo_thumbnail.png)](https://youtu.be/AT8Zk0sq-hU)
+
+## 👨‍💻 Autor
+
+Proyecto desarrollado por:
+
+# Natanael Dominguez
+
+📌 Analista Programador Universitario
