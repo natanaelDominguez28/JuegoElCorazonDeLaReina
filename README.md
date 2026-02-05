@@ -43,7 +43,7 @@ Implementado en **C++** utilizando distintas estructuras como árboles, listas y
    cd JuegoElCorazonDeLaReina
 ## 🎥 Demo en Video
 
-[![Ver demo en YouTube](assets/demo_thumbnail.png)](https://youtu.be/AT8Zk0sq-hU)
+[Demo](https://youtu.be/AT8Zk0sq-hU)
 
 ## 👨‍💻 Autor
 
