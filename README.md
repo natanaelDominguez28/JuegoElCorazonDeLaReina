@@ -52,7 +52,6 @@ JuegoElCorazonDeLaReina/
 ├── baraja.txt                  # Datos de las cartas (generado al iniciar)
 ├── jugadores.txt               # Registro persistente de jugadores
 │
-├── assets/                     # Recursos adicionales
 └── ED23 - Trabajo Final Integrador.pdf  # Enunciado oficial del TP
 ```
 
